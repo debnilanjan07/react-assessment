@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(18, 156, 110) ;
+}
+
+.styling{
+    text-align: center;
+}
+.styling button{
+    height: 50px;
+    width: 400px;
+    margin: 50px;
+    border: 2px solid black;
+    background-color: rgb(252, 50, 50);
+    border-radius: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+
+.component{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(143, 141, 50);
+    border: 15px;
+    border: 3px solid black ;
+    border-radius: 40px;
+}
+.classbseed__based{
+    margin-left: 540px;
+    background-color: rgb(197, 174, 194);
+}
+.function__based{
+    display: inline-block;
+    position: absolute;
+    left: 240px;
+    top: 230px;
+}
